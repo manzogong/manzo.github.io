@@ -27,24 +27,3 @@ type: page
 ## Comments
 
 {% include comments.html %}
-
-<h2 id="comments">Comments</h2>
-
-<div id="gitalk-container"></div>
-<link rel="stylesheet" href="/css/gitalk.css" />
-
-<script src="/js/gitalk.min.js"></script>
-
-<script>
-const gitalk = new Gitalk({
-  clientID: '73946dc1d9e2276ad0da',
-  clientSecret: '12a3cb94361ba3ebc6ecb68cf80d592bfaa8106d',
-  repo: 'tboox.github.io',
-  owner: 'waruqi',
-  admin: ['waruqi'],
-  id: location.pathname,      
-  language: 'en',
-  distractionFreeMode: false  
-})
-gitalk.render('gitalk-container')
-</script>
