@@ -3,7 +3,7 @@ layout: post
 title:  "破旧立新"
 categories: balabala
 tags: Theodore Kaczynski Luddites 
-excerpt: 这次疫情大考，会不会是一面照妖镜，让妖魔鬼怪现出原形呢？如果不查个水落石出，让民众信服，必将重蹈覆辙。 (查看详情)
+excerpt: 熔古铸今、古为今用、继古今开、稽古振今、行古志今、以古制今、泥古执今、荣古陋今、演古劝今 (查看详情)
 author: WwG
 ---
 
