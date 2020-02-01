@@ -3,7 +3,7 @@ layout: post
 title:  "应急预案"
 categories: balabala
 tags: contingency plan
-excerpt:(查看详情)
+excerpt: (查看详情)
 author: WwG
 ---
 
