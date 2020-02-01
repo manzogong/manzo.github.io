@@ -3,7 +3,7 @@ layout: post
 title:  "应急预案"
 categories: balabala
 tags: contingency plan
-excerpt: (查看详情)
+excerpt: 这次疫情大考，会不会是一面照妖镜，让妖魔鬼怪现出原形呢？如果不查个水落石出，让民众信服，必将重蹈覆辙。 (查看详情)
 author: WwG
 ---
 
